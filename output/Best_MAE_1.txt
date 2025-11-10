@@ -1,1 +1,1 @@
-The current best MAE is : 16141.249561643835
+The current best MAE is : 16141$
